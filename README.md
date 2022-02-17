@@ -1,0 +1,1 @@
+Psudo and Alogrithm practices

@@ -1,0 +1,12 @@
+This program calculates the sum of squares of given input of numbers
+Take given input of numbers as N
+   Read the given input of numbers
+   if ctr equals to 0, then sum equals to 0
+      Read available numbers
+      calculate ctr to be equal to ctr plus 1
+      compute the square of the numbers
+      the sum will be equal to sum *sqr.
+   if ctr is less than N then repeat steps 3 to 6
+   Print sum
+   end
+
