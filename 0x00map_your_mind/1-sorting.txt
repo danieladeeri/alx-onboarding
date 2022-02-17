@@ -1,0 +1,14 @@
+START
+<=z
+Read x,y,z
+If x<=y then
+ If y<=z then
+ s=1
+ else
+ s=0
+ end if
+else
+s=0
+end if
+Display
+STOP
